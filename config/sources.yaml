@@ -1,0 +1,103 @@
+sources:
+  - id: uae_law_33_2021
+    title: Federal Decree-Law No. 33 of 2021 - Regulating Labour Relations
+    authority: UAE_LEGISLATION
+    source_type: legal_text
+    language: en
+    url: https://www.uaelegislation.gov.ae/en/legislations/1541/download
+    priority: 1
+    parser: pdf
+    domain: labour_law
+    canonical_group: uae_law_33_2021
+
+  - id: uae_law_14_2022_amendment
+    title: Federal Decree-Law No. 14 of 2022 - Amendment to Labour Relations Law
+    authority: UAE_LEGISLATION
+    source_type: legal_text
+    language: en
+    url: https://uaelegislation.gov.ae/en/legislations/1637/download
+    priority: 1
+    parser: pdf
+    domain: employment_contracts
+
+ 
+  - id: uae_cabinet_96_2023_eos
+    title: Cabinet Resolution No. 96 of 2023 - Alternative End of Service Scheme
+    authority: UAE_LEGISLATION
+    source_type: legal_text
+    language: en
+    url: https://www.uaelegislation.gov.ae/en/legislations/2309/download
+    priority: 1
+    parser: pdf
+    domain: end_of_service
+
+  - id: uae_working_hours
+    title: Working hours and overtime
+    authority: UAE_PORTAL
+    source_type: guidance_page
+    language: en
+    url: https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/working-hours
+    priority: 2
+    parser: html
+    domain: working_hours
+
+  - id: uae_leave_entitlements
+    title: Types of leaves and entitlements in the private sector
+    authority: UAE_PORTAL
+    source_type: guidance_page
+    language: en
+    url: https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/Types-of-leaves
+    priority: 2
+    parser: html
+    domain: leave
+
+  - id: uae_termination
+    title: Terminating employment contracts and arbitrary dismissal
+    authority: UAE_PORTAL
+    source_type: guidance_page
+    language: en
+    url: https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/terminating-employment-contracts
+    priority: 2
+    parser: html
+    domain: termination
+
+  - id: uae_end_of_service
+    title: End of service benefits for workers in the private sector
+    authority: UAE_PORTAL
+    source_type: guidance_page
+    language: en
+    url: https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/end-of-service-benefits-for-employees-in-the-private-sector
+    priority: 2
+    parser: html
+    domain: end_of_service
+
+  - id: uae_employment_contracts
+    title: Employment contracts - duration and models in the private sector
+    authority: UAE_PORTAL
+    source_type: guidance_page
+    language: en
+    url: https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/employment-contracts-duration-and-models-in-the-private-sector
+    priority: 2
+    parser: html
+    domain: employment_contracts
+
+  - id: uae_employment_process
+    title: Job offers and the employment process
+    authority: UAE_PORTAL
+    source_type: guidance_page
+    language: en
+    url: https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/Job-offers-and-the-employment-process
+    priority: 2
+    parser: html
+    domain: employment_process
+
+  - id: uae_law_33_2021_ar
+    title: مرسوم بقانون اتحادي رقم 33 لسنة 2021 بشأن تنظيم علاقات العمل
+    authority: UAE_LEGISLATION
+    source_type: legal_text
+    language: ar
+    url: https://www.uaelegislation.gov.ae/ar/legislations/1541/download
+    priority: 1
+    parser: pdf
+    domain: labour_law
+    canonical_group: uae_law_33_2021
